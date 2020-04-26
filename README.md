@@ -14,8 +14,9 @@ June MIN    =   64F         MAX =   80F
 December MIN=   56F         MAX =   83F
 
 There is only a 8F difference in the coldest days between June and December, and only 3F differnece in the hottest days.
-However the is a record of more rain in the months of December than in JUNE
 
 ## FUTURE RECOMMENDATIONS
-We have only analysed two of twelve months for this businsess proposal. We need to look at the whole yearly climate and study previous years and any anomolies.
+We have only analysed two of twelve months for this businsess proposal. We need to look at the whole yearly climate and study previous years and any anomolies. We could also look into yearly percepitation data to ensure business wont be affected during launch time.
+
+There is a record of more rain in the months of December than in JUNE. We need to look at all the months and previous yearly data for the best decision making.
 
