@@ -10,6 +10,7 @@ We analysed the island of OAHU's weather to determine the potential of the busin
 We looked at the June and December weather. There is not much of a difference in the weather between the two months, the variation isin the mean of the temperature is less that 4F.
 
 June MIN    =   64F         MAX =   80F
+
 December MIN=   56F         MAX =   83F
 
 There is only a 8F difference in the coldest days between June and December, and only 3F differnece in the hottest days.
